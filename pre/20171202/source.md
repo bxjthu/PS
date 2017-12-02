@@ -221,7 +221,7 @@ about my major?</strong>
 <br><br>
 Cicero: doclus orator<br>
 a learned/cultured orator<br>
-博学演说家
+博雅演说家
 <br><br>
 "... no man can be eloquent on a subject that he does not understand..."<br><br>
 "if he understands a subject ever so well, but is ignorant how to form and polish his speech, he cannot express himself eloquently even about what he does understand..."
