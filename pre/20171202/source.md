@@ -27,7 +27,7 @@ class: center, middle
 
 人文教育：心智的解放与成长
 
-+ 探索、思辨、创造
++ 探索、思辨、创新
 
 + 传统、价值、共识
 
@@ -36,6 +36,7 @@ The rhetorical thread is reverential, focused on bringing new members into the c
 Learn to appreciate or to participate in traditions of compelling cultural interest. This framework helps students understand their connections with others and with canonical works in religion, art, literature, science, and music (to name just some strands of cultural interest).
 
 ---
+.left-column-2[
 ## **教学理念探索**
 
 人文教育中的公共演说教育
@@ -45,7 +46,13 @@ Learn to appreciate or to participate in traditions of compelling cultural inter
 + 公民参与
 
 + 博学与共识
+]
 
+.right-column-2[
+
+<br><br><br><br><br><br>
+<img src="images/course.png" width=400>
+]
 ---
 .left-column-4[
 
