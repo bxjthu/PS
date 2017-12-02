@@ -6,8 +6,9 @@ class: center, middle
 
 ###  清华大学外文系
 
+.smaller[
 ** bxj@tsinghua.edu.cn **
-
+]
 ---
 ## **中期汇报内容**
 
@@ -28,7 +29,11 @@ class: center, middle
 
 + 探索、思辨、创造
 
-+ 传统、共识、价值
++ 传统、价值、共识
+
+???
+The rhetorical thread is reverential, focused on bringing new members into the common culture.
+Learn to appreciate or to participate in traditions of compelling cultural interest. This framework helps students understand their connections with others and with canonical works in religion, art, literature, science, and music (to name just some strands of cultural interest).
 
 ---
 ## **教学理念探索**
@@ -59,7 +64,7 @@ class: center, middle
 .right-column-4[
 <br><br><br><br>
 .smaller[
-<font style="font-family:Droid Serif">"... though the outside of human life changes much, the inside changes little, and the lesson-book we cannot graduate from is human experience."
+<font style="font-family:Droid Serif">"... though the outside of human life changes much, the inside changes little..."
 <br><br>.right[Edith Hamilton]</font>
 ]
 ]
@@ -92,7 +97,7 @@ Life<br>
 Death<br>
 Poverty<br>
 War<br>
-Love<br>
+Harmony<br>
 Greed<br>
 Democracy<br>
 Freedom<br>
@@ -102,7 +107,7 @@ Science<br>
 Culture<br>
 Globalization<br>
 Exploration<br>
-Cooperation<br>
+Communication<br>
 ...<br>
 ...
 </font>
@@ -218,14 +223,15 @@ Cicero: doclus orator<br>
 a learned/cultured orator<br>
 博学演说家
 <br><br>
-"... no man can be eloquent on a subject that he does not understand; and that, if he understands a subject ever so well, but is ignorant how to form and polish his speech, he cannot express himself eloquently even about what he does understand..."
+"... no man can be eloquent on a subject that he does not understand..."<br><br>
+"if he understands a subject ever so well, but is ignorant how to form and polish his speech, he cannot express himself eloquently even about what he does understand..."
 </font>
 ]
 ]
 
 ???
-The rhetorical thread is reverential, focused on bringing new members into the common culture.
-Learn to appreciate or to participate in traditions of compelling cultural interest. This framework helps students understand their connections with others and with canonical works in religion, art, literature, science, and music (to name just some strands of cultural interest).
+(of a person) having acquired much knowledge through study
+characterized by refined taste and manners and good education
 
 ---
 .left-column-2[
