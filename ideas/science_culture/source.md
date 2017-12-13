@@ -63,5 +63,3 @@ class: center, middle
 ## But the Nemesis of all reformers is finality.
 
 # And the Nemesis of critical thinking is also finality.
-
----
