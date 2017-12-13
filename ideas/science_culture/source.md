@@ -27,18 +27,18 @@ There are many questions - and among them those that are of the profoundest inte
 ---
 ## But the Nemesis of all reformers is finality...
 
-Nemesis | ˈnɛmɪsɪs | .smaller[Greek Mythology]
+** Nemesis ** | ˈnɛmɪsɪs | .smaller[Greek Mythology]
 
 + a goddess usually portrayed as the agent of divine punishment for wrongdoing or presumption (hubris)
 + the inescapable agent of someone's or something's downfall
 
-finality  	    
+** finality **  	    
 
 + the quality of being final and impossible to change<br>
 .smaller[If you say something with finality, you say it in a way that shows that you have made up your mind about something and do not want to discuss it further. (FORMAL)
-_'Not this time, Faye,' he replied with finality._]
+e.g. _'Not this time, Faye,' he replied with finality._]
 
-avenue
+** avenue **
 
 + a wide, straight road, especially one with trees on either side
 + a way of getting something done.
