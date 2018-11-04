@@ -14,4 +14,9 @@ Readings:
 + [The Value of Philosophy](docs/readings/The_Value_of_Philosophy.pdf)
 + [The Myth of the Cave](docs/readings/The_Myth_of_the_Cave.pdf)
 
+
+
+中国思想与文化
++ 《中国思想史》+《中国哲学简史》
+
 Updating ...
