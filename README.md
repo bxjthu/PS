@@ -20,7 +20,7 @@ Readings:
 + 《中国思想史》+《中国哲学简史》
 
 时事与社会问题
-+ https://www.i21st.cn/story/index_1.html
++ [21世纪双语新闻](https://www.i21st.cn/story/index_1.html)
 
 知识问答
 + [样题](docs/fltrp_quiz_samples.pdf)
