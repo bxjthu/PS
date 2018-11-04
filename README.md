@@ -1,4 +1,4 @@
-MEMO：2018年外研社杯演讲决赛备赛
+## MEMO：2018年外研社杯演讲决赛备赛
 
 选手：吐格鲁克・吐尔逊
 
@@ -6,7 +6,7 @@ MEMO：2018年外研社杯演讲决赛备赛
 
 [知识问答样题](docs/fltrp_quiz_samples.pdf)
 
-Week 1
+## Week 1
 
 Readings:
 
@@ -16,7 +16,12 @@ Readings:
 
 
 
+## 专题阅读
+
 中国思想与文化
 + 《中国思想史》+《中国哲学简史》
+
+时事与社会问题
++ https://www.i21st.cn/story/index_1.html
 
 Updating ...
