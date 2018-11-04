@@ -4,8 +4,6 @@
 
 [决赛说明](http://uchallenge.unipus.cn/2018/constitution/speaking/447640.shtml)[[pdf](docs/fltrp2018_final.pdf)]
 
-[知识问答样题](docs/fltrp_quiz_samples.pdf)
-
 ## Week 1
 
 Readings:
@@ -23,5 +21,8 @@ Readings:
 
 时事与社会问题
 + https://www.i21st.cn/story/index_1.html
+
+知识问答
++ [样题](docs/fltrp_quiz_samples.pdf)
 
 Updating ...
