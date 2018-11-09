@@ -1,4 +1,4 @@
-##Why Read the Classics
+## Why Read the Classics
 
 General questions:
 - Why DID you read the classics?
@@ -7,7 +7,7 @@ General questions:
 
 More on details:
 - What is your formative reading about? What kind of change has it brought to you?
-- Has "your" classic ever helped you define yourself in opposition to it?
+- Has any of "your" classics ever helped you define yourself in opposition to it?
 - How do you think of the author's idea that " introductions, critical apparatus and bibliography" should be read after reading the classics?
 - Which elements do you think help classics “shakes the particles off”?
 - Have you found your "talisman(s)"?
