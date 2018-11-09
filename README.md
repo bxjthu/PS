@@ -9,7 +9,7 @@
 
 Readings:
 
-+ [Why Read the Classics?](docs/readings/Why_Read_the_Classics.pdf) [[Questions](docs/misc/classics_question)]
++ [Why Read the Classics?](docs/readings/Why_Read_the_Classics.pdf) [[Questions](docs/misc/classics_questions)]
 + [The Value of Philosophy](docs/readings/The_Value_of_Philosophy.pdf)
 + [The Myth of the Cave](docs/readings/The_Myth_of_the_Cave.pdf)
 
