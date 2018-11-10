@@ -32,6 +32,6 @@ Readings:
 + [样题](docs/fltrp_quiz_samples.pdf)
 
 ## 即席演讲
-+ [训练题目](docs/impromptu)
++ [训练题目](docs/misc/impromptu)
 
 Updating ...
