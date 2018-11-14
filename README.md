@@ -22,6 +22,12 @@
 + [What Artificial Intelligence Can and Can’t Do Right Now](https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now)
 + [Imagination in Service to Society](docs/readings/liucixin)
 
+教育及相关
++ College Pressures
++ [改革大学制度议](docs/readings/钱穆_改革大学制度议.pdf)
++ [我们为什么需要人文素养](docs/readings/龙应台_我们为什么需要人文素养.pdf)
++ [The Future of Jobs](docs/readings/WEF_Future_of_Jobs_2018.pdf)
+
 时事与社会问题
 + [21世纪双语新闻](https://www.i21st.cn/story/index_1.html)
 
