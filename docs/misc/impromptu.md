@@ -9,3 +9,17 @@
 + The skill at unmasking error, or simple intellectual one-upmanship, is not completely without value, but we should be wary of creating a class of self-satisfied debunkers or, to use a currently fashionable word on campuses, people who like to "trouble" ideas. In overdeveloping the capacity to show how texts, institutions, or people fail to accomplish what they set out to do, we may be depriving students of the capacity to learn as much as possible from what they study. In a humanities culture in which being smart often means being a critical unmasker, our students may become too good at showing how things don't make sense. That very skill may diminish their capacity to find or create meaning and direction in the books they read and the world in which they live. Once outside the university, our students continue to score points by displaying the critical prowess for which they were rewarded in school. They wind up contributing to a cultural climate that has little tolerance for finding or making meaning, whose intellectuals and cultural commentators delight in being able to show that somebody else is not to be believed. What is your understanding of this passage?
 
 + Some people say that the superabundance of information is devaluing knowledge. Do you agree? Why?
+
++ Dear Carlos: I desperately need a dean's excuse for my chem midterm which will begin in about 1 hour. All I can say is that I totally blew it this week. I've fallen incredibly, inconceivably behind. <br>
+Carlos: Help! I'm anxious to hear from you. I'll be in my room and won't leave it until I hear from you. Tomorrow is the last day for...<br>
+Carlos: I left town because I started bugging out again. I stayed up all night to finish a take-home make-up exam & am typing it to hand in on the 10th. It was due on the 5th. P.S. I'm going to the dentist. Pain is pretty bad. <br>
+Carlos: Probably by Friday I'll be able to get back to my studies. Right now I'm going to take a long walk. This whole thing has taken a lot out of me. <br>
+Carlos: I'm really up the proverbial creek. The problem is I really bombed the history final. Since I need that course for my major... <br>
+Carlos: Here follows a tale of woe. I went home this weekend, had to help my Mom, & caught a fever so didn't have much time to study. My professor... <br>
+Carlos: Aargh!! Trouble. Nothing original but everything's piling up at once. To be brief, my job interview...<br>
+What you have just read are the messages that some college students left for their dean Calors Hortas. Being a college student, have you experienced any similar or different pressures as described above? How have you been dealing with them?
+
++ The Future of Jobs Report 2018 presents information and data that were compiled and/or collected by the World Economic Forum. In the following table, we can see examples of stable, new and redundant roles, showing the workforce trends in all industries up to 2022.
+  + How do you view these trends?
+  + What do you think should college education do to prepare college students for the future?
+  + What do you think should college students do to prepare themselves for the future?
