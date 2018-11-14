@@ -19,7 +19,8 @@ Carlos: Here follows a tale of woe. I went home this weekend, had to help my Mom
 Carlos: Aargh!! Trouble. Nothing original but everything's piling up at once. To be brief, my job interview...<br>
 What you have just read are the messages that some college students left for their dean Calors Hortas. Being a college student, have you experienced any similar or different pressures as described above? How have you been dealing with them?
 
-+ The Future of Jobs Report 2018 presents information and data that were compiled and/or collected by the World Economic Forum. In the following table, we can see examples of stable, new and redundant roles, showing the workforce trends in all industries up to 2022.
++ The Future of Jobs Report 2018 presents information and data that were compiled and/or collected by the World Economic Forum. In the following table, we can see examples of stable, new and redundant roles, showing the workforce trends in all industries up to 2022.<br>
+![](future_jobs.png){:height="500"}
   + How do you view these trends?
   + What do you think should college education do to prepare college students for the future?
   + What do you think should college students do to prepare themselves for the future?
