@@ -4,7 +4,7 @@ Ladies and Gentleman,
 
 Good evening! It’s my great honor to receive the Clarke Award for Imagination in Service to Society.
 
-This award is a reward for imagination, a capability that should have been exclusive to God but we, as human beings, luckily have. And the meaning of the existence of imagination is far beyond our imagination. A historian used to say that the main reason why human beings have been able to surpass other species on Earth and build civilizations is that they can create, in their brains, something non-existent in reality. In the future, when artificial intelligence becomes smarter than us, imagination may be the only advantage we have over AI. But that’s enough.
+This award is a reward for imagination, a capability that should have been exclusive to God, but we, as human beings, luckily have. And the meaning of the existence of imagination is far beyond our imagination. A historian used to say that the main reason why human beings have been able to surpass other species on Earth and build civilizations is that they can create, in their brains, something non-existent in reality. In the future, when artificial intelligence becomes smarter than us, imagination may be the only advantage we have over AI. But that’s enough.
 
 Science fiction is a literary genre based on imagination. And the first sci-fi works to greatly impress me were those by Arthur C. Clarke. Together with Jules Verne and George Wells, Clarke was among the first Western modern sci-fi writers to enter China. In the early 1980s, 2001: A Space Odyssey and Rendezvous with Rama were published in China.
 
