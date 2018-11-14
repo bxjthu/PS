@@ -16,7 +16,7 @@ Carlos: I left town because I started bugging out again. I stayed up all night t
 Carlos: Probably by Friday I'll be able to get back to my studies. Right now I'm going to take a long walk. This whole thing has taken a lot out of me. <br>
 Carlos: I'm really up the proverbial creek. The problem is I really bombed the history final. Since I need that course for my major... <br>
 Carlos: Here follows a tale of woe. I went home this weekend, had to help my Mom, & caught a fever so didn't have much time to study. My professor... <br>
-Carlos: Aargh!! Trouble. Nothing original but everything's piling up at once. To be brief, my job interview...<br>
+Carlos: Aargh!! Trouble. Nothing original but everything's piling up at once. To be brief, my job interview...<br><br>
 What you have just read are the messages that some college students left for their dean Calors Hortas. Being a college student, have you experienced any similar or different pressures as described above? How have you been dealing with them?
 
 + The Future of Jobs Report 2018 presents information and data that were compiled and/or collected by the World Economic Forum. In the following table, we can see examples of stable, new and redundant roles, showing the workforce trends in all industries up to 2022.<br>
