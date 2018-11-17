@@ -28,8 +28,12 @@
 + [我们为什么需要人文素养](docs/readings/龙应台_我们为什么需要人文素养.pdf)
 + [The Future of Jobs](docs/readings/WEF_Future_of_Jobs_2018.pdf)
 
+经济及相关
++ [World Economic Forum Annual Meeting 2018](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018)
+
 时事与社会问题
 + [21世纪双语新闻](https://www.i21st.cn/story/index_1.html)
++ [World Economic Forum](https://www.weforum.org/)
 
 知识问答
 + [样题](docs/fltrp_quiz_samples.pdf)
