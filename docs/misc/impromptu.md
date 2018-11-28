@@ -30,3 +30,5 @@ What you have just read are the messages that some college students left for the
 
 + In an article in the January 1998 issue of Wired, a science journalist muses about the day—twenty? fifty? a hundred years from now?—when parents will be able to shop for their children's genes as easily as today they shop for their jeans. "Genotype choice," the journalist calls it. Would you like a girl or a boy? Curly hair or straight? A whiz at math or a winner of spelling bees? "It would give parents a real power over the sort of people their children will turn out to be," he says.<br>
   How do you think of such a “power “of parents?
+
++ Man is the measure of all things.
