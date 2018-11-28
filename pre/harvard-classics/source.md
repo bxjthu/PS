@@ -1,11 +1,17 @@
 class: center, middle
 # Reading and Critical Thinking<br>
-##The Harvard Classics on Education
+##The Dimensions of Education in the Harvard Classic
 ** Autumn 2018 **
 
 ** Tsinghua University **
 
 ** bxj@tsinghua.edu.cn **
+---
+
+class: center, middle
+## What is the purpose of education?
+## What is the purpose of colledge education?
+
 ---
 ##A Treatise on Good Manners and Good Breeding
 
