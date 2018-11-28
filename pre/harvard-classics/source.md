@@ -149,6 +149,20 @@ It is a place which wins the admiration of the young by its celebrity, kindles t
 No awful arch, no window of many-coloured lights marks the seats of learning there or elsewhere; philosophy lives out of doors. No close atmosphere oppresses the brain or inflames the eyelid; no long session stiffens the limbs. Epicurus is reclining in his garden; Zeno looks like a divinity in his porch; the restless Aristotle, on the other side of the city, as if in antagonism to Plato, is walking his pupils off their legs in his Lyceum by the Ilyssus.
 
 ---
+##The Idea of University
+
+.smaller[By John Henry Newman; Presented by Xiao Ziyi]
+
+Hence it is that the Sciences, into which our knowledge may be said to be cast, have multiplied bearings one on another, and an internal sympathy, and admit, or rather demand, comparison and adjustment. They complete, correct, balance each other. This consideration, if well-founded, must be taken into account, not only as regards the attainment of truth, which is their common end, but as regards the influence which they exercise upon those whose education consists in the study of them
+
+---
+##The Idea of University
+
+.smaller[By John Henry Newman; Presented by Xiao Ziyi]
+
+I have said already, that to give undue prominence to one is to be unjust to another; to neglect or supersede these is to divert those from their proper object. It is to unsettle the boundary lines between science and science, to disturb their action, to destroy the harmony which binds them together. Such a proceeding will have a corresponding effect when introduced into a place of education. There is no science but tells a different tale, when viewed as a portion of a whole, from what it is likely to suggest when taken by itself, without the safeguard, as I may call it, of others.
+
+---
 ##Of Studies
 
 .smaller[By Francis Bacon; Presented by Qiu Jiaxing]
