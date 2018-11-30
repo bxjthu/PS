@@ -21,6 +21,8 @@
 + [Q & A: The future of artificial intelligence](https://people.eecs.berkeley.edu/~russell/temp/q-and-a.html)
 + [What Artificial Intelligence Can and Can’t Do Right Now](https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now)
 + [Imagination in Service to Society](docs/readings/liucixin)
++ [关于强人工智能](https://www.leiphone.com/news/201801/i3y36GjA4SdwpGuC.html)
++ Science and human nature
 
 教育及相关
 + College Pressures
@@ -30,6 +32,9 @@
 
 经济及相关
 + [World Economic Forum Annual Meeting 2018](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018)
+
+家庭与爱情
++
 
 时事与社会问题
 + [21世纪双语新闻](https://www.i21st.cn/story/index_1.html)
