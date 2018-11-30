@@ -1,4 +1,4 @@
-## REAING LOG
+## READING LOG
 
 ### Theme 1:
 
@@ -17,6 +17,6 @@
   +
 
   Uncertainties:
-  
+
   +
   +
