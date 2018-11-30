@@ -31,7 +31,8 @@ What you have just read are the messages that some college students left for the
 + In an article in the January 1998 issue of Wired, a science journalist muses about the day—twenty? fifty? a hundred years from now?—when parents will be able to shop for their children's genes as easily as today they shop for their jeans. "Genotype choice," the journalist calls it. Would you like a girl or a boy? Curly hair or straight? A whiz at math or a winner of spelling bees? "It would give parents a real power over the sort of people their children will turn out to be," he says.<br>
   How do you think of such a “power “of parents?
 
-+ Man is the measure of all things.
++ Man is the measure of all things.<br>
+  What is your understanding of this statement?
 
 + Zhou Dongyu is known for playing the sweetheart. In her movie Us and Them released earlier this year, she plays a girl in love who faces the harsh reality of living in a big city. In real life, Zhou prefers love over wealth. “Money is not the most important thing to me. I hope that my future boyfriend or husband will think the same way. When it comes to relationships, I care more about having a real connection to the person.” She also believes that it’s important for a couple to be well matched in their educational backgrounds and values, so as to reduce the chances of conflicts arising in the relationship.<br>
   What do you think are the factors that contribute to a successful marriage or romantic relationship?
