@@ -1,1 +1,1 @@
-## Science and human nature
+## Science and Human Nature
