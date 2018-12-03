@@ -43,6 +43,28 @@ Therefore I insist that good sense is the principal foundation of good manners; 
 As the common forms of good manners were intended for regu­lating the conduct of those who have weak understandings; so they have been corrupted by the persons for whose use they were contrived. For these people have fallen into a needless and endless way of multiplying ceremonies, which have been extremely trouble­ some to those who practice them, and insupportable to everybody else: insomuch that wise men are often more uneasy at the over civility of these refiners, than they could possibly be in the conversations of peasants or mechanics.
 
 So that the difference between good breed­ing and good manners lies in this, that the former cannot be attained to by the best understandings, without study and labour; whereas a tolerable degree of reason will instruct us in every part of good man­ners, without other assistance.
+
+---
+##A Treatise on Good Manners and Good Breeding
+
+.smaller[By Jonathan Swift; Presented by Qian Yijun]
+
+Good manners is the art of making those people easy with whom we converse. Whoever makes the fewest persons uneasy is the best bred in the company. As the best law is founded upon reason, so are the best manners. And as some lawyers have introduced unreasonable things into common law, so likewise many teachers have introduced absurd things into common good manners.
+
+Therefore I insist that good sense is the principal foundation of good manners; but because the former is a gift which very few among mankind are possessed of, therefore all the civilized nations of the world have agreed upon fixing some rules for common behaviour, best suited to their general customs, o-r fancies, as a kind of artificial good sense, to supply the defects of reason.
+
+---
+##A Treatise on Good Manners and Good Breeding
+
+.smaller[By Jonathan Swift; Presented by Qian Yijun]
+
+There is a pedantry in manners, as in all arts and sciences; and sometimes in trades. Pedantry is properly the overrating any kind of knowledge we pretend to. And if that kind of knowledge be a trifle in itself, the pedantry is the greater.
+
+Whence I have long concluded, that good manners are not a plant of the court growth: for if they were, those people who have understandings directly of a level for such acquirement, and who have served such long apprenticeships to nothing else, would certainly have picked them up.
+
+So that the difference between good breeding and good manners lies in this, that the former cannot be attained to by the best understandings, without study and labour; whereas a tolerable degree of reason will instruct us in every part of good manners, without other assistance.
+
+
 ---
 ##The Education of Women
 
@@ -73,6 +95,22 @@ If she be proud, want of discretion (which still is breeding) makes her conceite
 And from these she degenerates to be turbulent, clamorous, noisy, nasty, the devil!...
 
 ]
+
+---
+## The Education of Women
+.smaller[By Daniel Defoe; Presented by Sun Yiming]
+
+The soul is placed in the body like a rough diamond; and must be polished, or the lustre of it will never appear.
+
+---
+## The Education of Women
+.smaller[By Daniel Defoe; Presented by Yun Qianyu]
+
+Women also have the ability to be well-educated if given the access to education
+
+Women have their special temperaments, such as accuracy in senses, and sensibility by born
+
+Everyone has the right to be educated and become a complete, sensible person. The nature or temperaments by born isn’t so important.
 
 ---
 ## The Education of The Human Race
@@ -180,6 +218,25 @@ Nay, there is no stond or impediment in the wit but may be wrought out by fit st
 
 So if a man's wit be wandering, let him study the mathematics; for in demonstrations, if his wit be called away never so little, he must begin again. If his wit be not apt to distinguish or find differences, let him study the Schoolmen; for they are cymini sectores [splitters of hairs]. If he be not apt to beat over matters, and to call up one thing to prove and illustrate another, let him study the lawyers' cases. So every defect of the mind may have a special receipt.
 
+
+---
+## Of Studies
+.smaller[By Francis Bacon; Presented by Sun Yiming]
+
+Studies pass into and influence manners. There is no stond or impediment in the wit but may be wrought out by fit studies; like as diseases of the body may have appropriate exercises.
+
+
+---
+## Of Studies
+.smaller[By Francis Bacon; Presented by Li Jiongzhou]
+
+STUDIES serve for delight, for ornament, and for ability. Their chief use for delight is in privateness and retiring; for ornament, is in discourse; and for ability, is in the judgment and disposition of business.
+
+Some books are to be tasted, others to be swallowed, and some few to be chewed and digested; that is, some books are to be read only in parts; others to be read, but not curiously; and some few to be read wholly, and with diligence and attention.
+
+Reading maketh a full man; conference a ready man; and writing an exact man. And therefore, if a man write little, he had need have a great memory; if he confer little, he had need have a present wit: and if he read little, he had need have much cunning, to seem to know that he doth not.
+
+
 ---
 ##Of Nature in Man
 
@@ -202,3 +259,83 @@ Many examples may be put of the force of custom, both upon the mind and the body
 But if the force of custom simple and seperate be great, the force of custom copulate and cojoined and collegiate is far greater. For there example teacheth, company comforteth, emulation quickeneth, glory raiseth: so as in such places the force of custom is in his exalation (at his height).
 
 ---
+##Of Travel
+.smaller[By Francis Bacon; Presented by Chuantian Zhizi]
+
+TRAVEL, in the younger sort, is a part of education; in the elder, a part of experience.
+
+When a traveller returneth home, let him not leave the countries where he hath travelled altogether behind him; but maintain a correspondence by letters with those of his acquaintance which are of most worth... let it appear that he doth not change his country manners for those of foreign parts; but only prick in some flowers of that he hath learned abroad into the customs of his own country.
+
+---
+##Of Travel
+.smaller[By Francis Bacon; Presented by Yang Zonghao]
+
+TRAVEL, in the younger sort, is a part of education; in the elder, a part of experience.
+
+He that travelleth into a country before he hath some entrance into the language, goeth to school, and not to travel. That young men travel under some tutor, or grave servant, I allow well; so that he be such a one that hath the language, and hath been in the country before; whereby he may be able to tell them what things are worthy to be seen in the country where they go; what acquaintances they are to seek; what exercises or discipline the place yieldeth.
+
+---
+##Of Travel
+.smaller[By Francis Bacon; Presented by Yang Zonghao]
+
+Let him carry with him also some card or book describing the country where he travelleth; which will be a good key to his inquiry. Let him keep also a diary. Let him not stay long in one city or town; ...
+
+As for the acquaintance which is to be sought in travel; that which is most of all profitable is acquaintance with the secretaries and employed men of ambassadors: for so in travelling in one country he shall suck the experience of many.
+
+When a traveller returneth home, let him not leave the countries where he hath travelled altogether behind him; but maintain a correspondence by letters with those of his acquaintance which are of most worth... let it appear that he doth not change his country manners for those of foreign parts; but only prick in some flowers of that he hath learned abroad into the customs of his own country.
+
+---
+##Of Parents and Children
+.smaller[By Francis Bacon; Presented by Wu Jingwen]
+
+The joys of parents are secret; and so are their griefs and fears. They cannot utter the one; nor they will not utter the other. Children sweeten labors; but they make misfortunes more bitter. They increase the cares of life; but they mitigate the remembrance of death.
+
+Let parents choose betimes the vocations and courses they mean their children should take; for then they are most flexible; and let them not too much apply themselves to the disposition of their children, as thinking they will take best to that which they have most mind to.
+
+Men have a foolish manner (both parents and schoolmasters and servants) in creating and breeding an emulation between brothers during childhood, which many times sorteth to discord when they are men, and disturbeth families. The Italians make little differ­ence between children and nephews or near kinsfolks;
+---
+
+##Inaugural Address at Edinburgh
+
+.smaller[By Thomas Carlyle; Presented by Li Xingze]
+
+You are ever to bear in mind that there lies behind that the acquisition of what may be called wisdom---namely, sound appreciation and the just decision as to all the objects that come around you, and the habit of behaving with justice, candour, clear insight, and loyal adherence to fact. Great is wisdom; infinite is the value of wisdom. It cannot be exaggerated; it is the highest achievement of man: “Blessed is he that get the understanding.”
+
+People have become doubtful whether colleges are now the real source of wisdom; whether they are anything more, anything much more, than a cultivating of man in the specific arts.
+
+---
+
+##Inaugural Address at Edinburgh
+
+.smaller[By Thomas Carlyle; Presented by Li Xingze]
+
+All that sad stuff being the too well-known product of our method of vocal education, the teacher merely operates on the tongue of the pupil, and teaches him to wag it in a particular way. In effect, it is an education not vocal at all, but mute except where speaking was strictly needful.
+
+There is a time to speak, and a time to be silent. Silence withal is the eternal duty of a man.
+
+You may feel often as if the whole world were obstructing you, setting itself against you; but you will find that to mean only, that the world is travelling in a different way from you, and rushing on in its own path, heedlessly treads on you.
+
+---
+##Science and culture
+.smaller[By Thomas Henry Huxley; Presented by Liu Xueyan]
+
+---
+
+##Of Education
+.smaller[By John Milton; Presented by Xiong Guangzhi]
+
+... yet if he have not studied the solid things in them as well as the words and lexicons, he were nothing so much to be esteemed a learned man, ...
+
+... till poverty or youthful years call them importunately their several ways, and hasten them with the sway of friends either to an ambitious and mercenary, or ignorantly zealous divinity;...
+
+... while their young and pliant affections are led through all the moral works of Plato, Xenophon, Cicero, Plutarch, Laertius and those Locrian remnants; but still to be reduced in their nightward studies wherewith they close the day's work, under the determinate sentence of David or Solomon, or the evanges and apostolic scriptures.
+
+---
+##Sesame and Lilies
+.smaller[By John Ruskin; Presented by Liu Yue Qianzi]
+
+Education is the advancement of life.
+
+All books are divisible into two classes, the books of the hour, and the books of all time.
+
+If you will not rise to us, we cannot stoop to you. The living lord may assume courtesy, the living philosopher explain his thought to you with considerate pain; but here we neither feign nor interpret; you must rise to the level of our thoughts if you would be gladdened by them, and share our feelings, if you would recognize our presence.
