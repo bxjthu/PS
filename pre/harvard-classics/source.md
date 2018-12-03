@@ -191,7 +191,7 @@ No awful arch, no window of many-coloured lights marks the seats of learning the
 
 .smaller[By John Henry Newman; Presented by Xiao Ziyi]
 
-Hence it is that the Sciences, into which our knowledge may be said to be cast, have multiplied bearings one on another, and an internal sympathy, and admit, or rather demand, comparison and adjustment. They complete, correct, balance each other. This consideration, if well-founded, must be taken into account, not only as regards the attainment of truth, which is their common end, but as regards the influence which they exercise upon those whose education consists in the study of them
+Hence it is that the Sciences, into which our knowledge may be said to be cast, have multiplied bearings one on another, and an internal sympathy, and admit, or rather demand, comparison and adjustment. They complete, correct, balance each other. This consideration, if well-founded, must be taken into account, not only as regards the attainment of truth, which is their common end, but as regards the influence which they exercise upon those whose education consists in the study of them.
 
 ---
 ##The Idea of University
@@ -200,6 +200,27 @@ Hence it is that the Sciences, into which our knowledge may be said to be cast, 
 
 I have said already, that to give undue prominence to one is to be unjust to another; to neglect or supersede these is to divert those from their proper object. It is to unsettle the boundary lines between science and science, to disturb their action, to destroy the harmony which binds them together. Such a proceeding will have a corresponding effect when introduced into a place of education. There is no science but tells a different tale, when viewed as a portion of a whole, from what it is likely to suggest when taken by itself, without the safeguard, as I may call it, of others.
 
+---
+
+##Inaugural Address at Edinburgh
+
+.smaller[By Thomas Carlyle; Presented by Li Xingze]
+
+You are ever to bear in mind that there lies behind that the acquisition of what may be called wisdom---namely, sound appreciation and the just decision as to all the objects that come around you, and the habit of behaving with justice, candour, clear insight, and loyal adherence to fact. Great is wisdom; infinite is the value of wisdom. It cannot be exaggerated; it is the highest achievement of man: “Blessed is he that get the understanding.”
+
+People have become doubtful whether colleges are now the real source of wisdom; whether they are anything more, anything much more, than a cultivating of man in the specific arts.
+
+---
+
+##Inaugural Address at Edinburgh
+
+.smaller[By Thomas Carlyle; Presented by Li Xingze]
+
+All that sad stuff being the too well-known product of our method of vocal education, the teacher merely operates on the tongue of the pupil, and teaches him to wag it in a particular way. In effect, it is an education not vocal at all, but mute except where speaking was strictly needful.
+
+There is a time to speak, and a time to be silent. Silence withal is the eternal duty of a man.
+
+You may feel often as if the whole world were obstructing you, setting itself against you; but you will find that to mean only, that the world is travelling in a different way from you, and rushing on in its own path, heedlessly treads on you.
 ---
 ##Of Studies
 
@@ -293,31 +314,12 @@ The joys of parents are secret; and so are their griefs and fears. They cannot u
 Let parents choose betimes the vocations and courses they mean their children should take; for then they are most flexible; and let them not too much apply themselves to the disposition of their children, as thinking they will take best to that which they have most mind to.
 
 Men have a foolish manner (both parents and schoolmasters and servants) in creating and breeding an emulation between brothers during childhood, which many times sorteth to discord when they are men, and disturbeth families. The Italians make little differ­ence between children and nephews or near kinsfolks;
----
-
-##Inaugural Address at Edinburgh
-
-.smaller[By Thomas Carlyle; Presented by Li Xingze]
-
-You are ever to bear in mind that there lies behind that the acquisition of what may be called wisdom---namely, sound appreciation and the just decision as to all the objects that come around you, and the habit of behaving with justice, candour, clear insight, and loyal adherence to fact. Great is wisdom; infinite is the value of wisdom. It cannot be exaggerated; it is the highest achievement of man: “Blessed is he that get the understanding.”
-
-People have become doubtful whether colleges are now the real source of wisdom; whether they are anything more, anything much more, than a cultivating of man in the specific arts.
-
----
-
-##Inaugural Address at Edinburgh
-
-.smaller[By Thomas Carlyle; Presented by Li Xingze]
-
-All that sad stuff being the too well-known product of our method of vocal education, the teacher merely operates on the tongue of the pupil, and teaches him to wag it in a particular way. In effect, it is an education not vocal at all, but mute except where speaking was strictly needful.
-
-There is a time to speak, and a time to be silent. Silence withal is the eternal duty of a man.
-
-You may feel often as if the whole world were obstructing you, setting itself against you; but you will find that to mean only, that the world is travelling in a different way from you, and rushing on in its own path, heedlessly treads on you.
 
 ---
 ##Science and culture
 .smaller[By Thomas Henry Huxley; Presented by Liu Xueyan]
+
+But the Nemesis of all reformers is finality...
 
 ---
 
