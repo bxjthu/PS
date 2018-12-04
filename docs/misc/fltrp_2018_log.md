@@ -5,7 +5,7 @@
 + 已备演讲及问答
   + 昨天练习时，已备的精神头还没上来，今晚争取找到感觉。
   + 关于已备的几类问题，理清自己的观点，准备相应的论据。
-    + How did you turn the stumbling block into stepping stones or how you plan to do so? (昨天用的是一个过去的例子，再试着想想和当前学习生活相关的例子。)
+    + How did you turn stumbling blocks into stepping stones or how you plan to do so? (昨天用的是一个过去的例子，再试着想想和当前学习生活相关的例子。)
     + How are your “stones” different from those of your father? How are your “stones” similar to those of your father?
     + How would you decide if a stumbling block will turn into a stepping stone? If there are many stumbling blocks in front of you, how would you decide which one to turn first?
     + How do you perceive the new world that you have to face and the new world China has to face?
