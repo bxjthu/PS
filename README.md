@@ -58,4 +58,6 @@
 ## 即席演讲
 + [训练题目](docs/misc/impromptu)
 
+## [Daily log](docs/misc/fltrp_2018_log)
+
 Updating ...
