@@ -46,7 +46,7 @@
 
 全球化进程
 + 全球视野
-+ 全球问题
++ [全球问题](docs/readings/Global_Issues.pdf)
 
 时事与社会问题
 + [21世纪双语新闻](https://www.i21st.cn/story/index_1.html)
