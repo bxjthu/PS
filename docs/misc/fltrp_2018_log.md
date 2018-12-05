@@ -1,5 +1,19 @@
 ## FLTRP 2018
 
+### Day 2 (Dec. 5)
+
+好戏开场...
+
++ 即席热身
+  + 社会问题及名言（用下面的素材练习：问题如何归类？要传达的central message是什么？讲稿如何布局？亮点如何体现？）
+    + [21世纪双语新闻](https://www.i21st.cn/story/index_1.html)
+    + [模拟题](即席题_FLTRP.doc)
+
++ 知识速答热身
+  + [样题](https://bxjthu.github.io/ps/docs/fltrp_quiz_samples.pdf)
+
+我上课去了，下午再联系...
+
 ### Day 1 (Dec. 4)
 
 + 已备演讲及问答
@@ -14,17 +28,3 @@
   + 国家发展类（How do you perceive the new world that you have to face and the new world China has to face?）
   + 教育类 (What is the purpose of education in general? What is the purpose of college education in particular?)
   + 家庭类 (What are the roles of a family in one's life? How do you perceive the relationship among family members?)
-
-### Day 2 (Dec. 5)
-
-好戏开场...
-
-+ 即席热身
-  + 社会问题及名言（用下面的素材练习：问题如何归类？要传达的central message是什么？讲稿如何布局？亮点如何体现？）
-    + [21世纪双语新闻](https://www.i21st.cn/story/index_1.html)
-    + [模拟题](即席题_FLTRP.doc)
-
-+ 知识速答热身
-  + [样题](https://bxjthu.github.io/ps/docs/fltrp_quiz_samples.pdf)
-
-我上课去了，下午再联系...
