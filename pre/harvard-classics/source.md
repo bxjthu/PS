@@ -303,6 +303,10 @@ Let him carry with him also some card or book describing the country where he tr
 
 As for the acquaintance which is to be sought in travel; that which is most of all profitable is acquaintance with the secretaries and employed men of ambassadors: for so in travelling in one country he shall suck the experience of many.
 
+---
+##Of Travel
+.smaller[By Francis Bacon; Presented by Yang Zonghao]
+
 When a traveller returneth home, let him not leave the countries where he hath travelled altogether behind him; but maintain a correspondence by letters with those of his acquaintance which are of most worth... let it appear that he doth not change his country manners for those of foreign parts; but only prick in some flowers of that he hath learned abroad into the customs of his own country.
 
 ---
