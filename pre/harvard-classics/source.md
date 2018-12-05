@@ -276,11 +276,6 @@ Nature is often hidden; sometimes overcome; seldom extinguished. Force makes nat
 
 Many examples may be put of the force of custom, both upon the mind and the body. Therefore, since the custom is the principal magistrate of man's life. Let man by all means endeavor to obtain good customs. Certainly custom is most perfect when it beginneth in young years: this we call education; which is, in effect, but an early custom.
 
----
-##Of Custom and Education
-
-.smaller[By Francis Bacon; Presented by Du Lite]
-
 But if the force of custom simple and seperate be great, the force of custom copulate and cojoined and collegiate is far greater. For there example teacheth, company comforteth, emulation quickeneth, glory raiseth: so as in such places the force of custom is in his exalation (at his height).
 
 ---
