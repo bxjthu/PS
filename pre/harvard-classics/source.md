@@ -253,7 +253,7 @@ Some books are to be tasted, others to be swallowed, and some few to be chewed a
 
 Reading maketh a full man; conference a ready man; and writing an exact man. And therefore, if a man write little, he had need have a great memory; if he confer little, he had need have a present wit: and if he read little, he had need have much cunning, to seem to know that he doth not.
 
-_Histories make men wise; poets witty; the mathematics subtile; natural philosophy deep; moral grave; logic and rhetoric able to contend._
+Histories make men wise; poets witty; the mathematics subtile; natural philosophy deep; moral grave; logic and rhetoric able to contend.
 
 ---
 ## Of Studies
@@ -261,7 +261,7 @@ _Histories make men wise; poets witty; the mathematics subtile; natural philosop
 
 Studies pass into and influence manners. There is no stond or impediment in the wit but may be wrought out by fit studies; like as diseases of the body may have appropriate exercises.
 
-_Bowling is good for the stone and reins;3 shooting for the lungs and breast; gentle walk­ ing for the stomach; riding for the head; and the like._
+Bowling is good for the stone and reins; shooting for the lungs and breast; gentle walk­ ing for the stomach; riding for the head; and the like.
 ---
 ##Of Nature in Man
 
