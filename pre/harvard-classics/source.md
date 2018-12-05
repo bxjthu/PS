@@ -327,7 +327,12 @@ Men have a foolish manner (both parents and schoolmasters and servants) in creat
 ##Science and culture
 .smaller[By Thomas Henry Huxley; Presented by Liu Xueyan]
 
-But the Nemesis of all reformers is finality...
+---
+##Science and culture
+
+.smaller[By Thomas Henry Huxley; Presented by BXJ]
+
+Thus the humanists, as they were called, won the day; and the great reform which they effected was of incalculable service to man­ kind. [But the Nemesis of all reformers is finality;](https://bxjthu.github.io/ps/ideas/science_culture/) and the reformers of education, like those of religion, fell into the profound, however common, error of mistaking the beginning for the end of the work of reformation. The representatives of the humanists in the nineteenth century take their stand upon classical education as the sole avenue to cul­ ture, as firmly as if we were still in the age of Renaissance.
 
 ---
 
