@@ -45,7 +45,7 @@
 + 女性问题
 
 全球化进程
-+ 全球视野
++ [全球视野](docs/misc/globe)
 + [全球问题](docs/readings/Global_Issues.pdf)
 
 时事与社会问题
