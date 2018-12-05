@@ -36,3 +36,5 @@ What you have just read are the messages that some college students left for the
 
 + Zhou Dongyu is known for playing the sweetheart. In her movie Us and Them released earlier this year, she plays a girl in love who faces the harsh reality of living in a big city. In real life, Zhou prefers love over wealth. “Money is not the most important thing to me. I hope that my future boyfriend or husband will think the same way. When it comes to relationships, I care more about having a real connection to the person.” She also believes that it’s important for a couple to be well matched in their educational backgrounds and values, so as to reduce the chances of conflicts arising in the relationship.<br>
   What do you think are the factors that contribute to a successful marriage or romantic relationship?
+
++ According to a recent study, social images say a lot about our personality. Do you agree that social media photos represent an extension of one’s self? How do you usually look like in your social media photos?
