@@ -54,4 +54,5 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
   The question, O me! so sad, recurring—What good amid these, O me, O life?	 <br>
   Answer.<br>
   That you are here—that life exists, and identity;	 <br>
-  That the powerful play goes on, and you will contribute a verse.
+  **That the powerful play goes on, and you will contribute a verse.<br><br>**
+  **What will your verse be?**
