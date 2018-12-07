@@ -62,6 +62,42 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
   **That the powerful play goes on, and you will contribute a verse.<br><br>**
   **What will your verse be?**
 
++ Louis Armstrong: What a Wonderful World
+  I see trees of green<br>
+  Red roses too<br>
+  I see them bloom<br>
+  For me and you<br>
+  And I think to myself<br>
+  What a wonderful world<br>
+
+  I see skies of blue<br>
+  And clouds of white<br>
+  The bright blessed day<br>
+  The dark sacred night<br>
+  And I think to myself<br>
+  What a wonderful world<br>
+
+  The colors of the rainbow<br>
+  So pretty in the sky<br>
+  Are also on the faces<br>
+  Of people going by<br>
+  I see friends shaking hands<br>
+  Saying, "How do you do?"<br>
+  They're really saying<br>
+  "I love you"<br>
+
+  I hear babies cry<br>
+  I watch them grow<br>
+  They'll learn much more<br>
+  Than I'll never know<br>
+  And I think to myself<br>
+  What a wonderful world<br>
+
+  Yes, I think to myself<br>
+  What a wonderful world<br>
+
+  Oh yeah
+
 + AI
 
 + Sophie's World
@@ -77,6 +113,8 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
 
 ### Draft
 
-What is the soul? I was busy searching for the definitions of SOUL when the sun outside Plato's cave suddenly appeared/came to shine on the dictionaries in front of me. Yes, to Plato, "the soul is like an eye; when resting upon that on which truth and being shine, the soul perceives and understands, and is radiant with intelligence.
+What is the soul? I was busy searching for an answer when the sun outside Plato's cave suddenly appeared/came to shine on the dictionaries in front of me. Yes, to Plato, "the soul is like an eye; when resting upon that on which truth and being shine, the soul perceives and understands, and is radiant with intelligence."
 
-To perceive reality
+University education - a journey of forming, coloring, and motivating my soul. Or, to define the essentials of my soul.
+
+I put the dictionaries aside, which define the soul as mind, character, thoughts, feelings, etc., and wrote down my definition of MY SOUL: the eye/ability to perceive and understand the self and the not-self and to form an union of them. What a wonderful world is my soul taking me to see, I am
