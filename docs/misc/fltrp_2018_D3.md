@@ -38,6 +38,11 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
 
   But further, if we are not to fail in our endeavour to determine the value of philosophy, we must first free our minds from the prejudices of what are wrongly called 'practical' men. The 'practical' man, as this word is often used, is one who recognizes only material needs, who realizes that men must have food for the body, but is oblivious of the necessity of providing food for the mind. If all men were well off, if poverty and disease had been reduced to their lowest possible point, there would still remain much to be done to produce a valuable society; and even in the existing world the goods of the mind are at least as important as the goods of the body. It is exclusively among the goods of the mind that the value of philosophy is to be found; and only those who are not indifferent to these goods can be persuaded that the study of philosophy is not a waste of time.
 
+  The value of philosophy is, in fact, to be sought largely in its very uncertainty. The man who has no tincture of philosophy goes through life imprisoned in the prejudices derived from common sense, from the habitual beliefs of his age or his nation, and from convictions which have grown up in his mind without the co-operation or consent of his deliberate reason. To such a man the world tends to become definite, finite, obvious; common objects rouse no questions, and unfamiliar possibilities are contemptuously rejected. As soon as we begin to philosophize, on the contrary, we find, as we saw in our opening chapters, that even the most everyday things lead to problems to which only very incomplete answers can be given. Philosophy, though unable to tell us with certainty what is the true answer to the doubts which it raises, is able to suggest many possibilities which enlarge our thoughts and free them from the tyranny of custom. Thus, while diminishing our feeling of certainty as to what things are, it greatly increases our knowledge as to what they may be; it removes the somewhat arrogant dogmatism of those who have never travelled into the region of liberating doubt, and it keeps alive our sense of wonder by showing familiar things in an unfamiliar aspect.
+
++ Plato: Republic<br>
+  The soul is like an eye: when resting upon that on which truth and being shine, the soul perceives and understands, and is radiant with intelligence; but when turned towards the twilight of becoming and perishing, then she has opinion only, and goes blinking about, and is first of one opinion and then of another, and seems to have no intelligence. . . . Now what imparts truth to the known and the power of knowing to the knower is what I would have you term the idea of good, and this you will deem to be the cause of science.
+
 + Michael S. Roth: Beyond Critical Thinking<br>
   The skill at unmasking error, or simple intellectual one-upmanship, is not completely without value, but we should be wary of creating a class of self-satisfied debunkers or, to use a currently fashionable word on campuses, people who like to "trouble" ideas. In overdeveloping the capacity to show how texts, institutions, or people fail to accomplish what they set out to do, we may be depriving students of the capacity to learn as much as possible from what they study. In a humanities culture in which being smart often means being a critical unmasker, our students may become too good at showing how things don't make sense. That very skill may diminish their capacity to find or create meaning and direction in the books they read and the world in which they live. Once outside the university, our students continue to score points by displaying the critical prowess for which they were rewarded in school. They wind up contributing to a cultural climate that has little tolerance for finding or making meaning, whose intellectuals and cultural commentators delight in being able to show that somebody else is not to be believed.
 
@@ -56,3 +61,22 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
   That you are here—that life exists, and identity;	 <br>
   **That the powerful play goes on, and you will contribute a verse.<br><br>**
   **What will your verse be?**
+
++ AI
+
++ Sophie's World
+
++ But the Nemesis of all reformers is finality.
+
++ Unsolved questions and the progress of human intellect<br>
+  There are many questions - and among them those that are of the profoundest interest to our spiritual life - which, so far as we can see, must remain insoluble to the human intellect unless its powers become of quite a different order from what they are now.
+
++ Chinese philosophers
+
++ Philosopher kings
+
+### Draft
+
+What is the soul? I was busy searching for the definitions of SOUL when the sun outside Plato's cave suddenly appeared/came to shine on the dictionaries in front of me. Yes, to Plato, "the soul is like an eye; when resting upon that on which truth and being shine, the soul perceives and understands, and is radiant with intelligence.
+
+To perceive reality
