@@ -25,7 +25,7 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
 
 ### Random notes:
 
-+ FUNG YU-LAN: A SHORT HISTORY OF CHINESE PHILOSOHY  
++ FUNG YU-LAN: A Short History of Chinese Philosophy  
   The purpose of the study of philosophy is to enable a man, as a man, to be a man, not some particular kind of man.
 
 + Henry David Thoreau: Walden
@@ -43,3 +43,15 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
 
 + T. S. Eliot: Tradition and the Individual Talent
   No poet, no artist of any art, has his complete meaning alone. His significance, his appreciation is the appreciation of his relation to the dead poets and artists. You cannot value him alone; you must set him, for contrast and comparison, among the dead. I mean this as a principle of aesthetic, not merely historical, criticism. The necessity that he shall conform, that he shall cohere, is not one-sided; what happens when a new work of art is created is something that happens simultaneously to all the works of art which preceded it. The existing monuments form an ideal order among themselves, which is modified by the introduction of the new (the really new) work of art among them. The existing order is complete before the new work arrives; for order to persist after the supervention of novelty, the whole existing order must be, if ever so slightly, altered; and so the relations, proportions, values of each work of art toward the whole are readjusted; and this is conformity between the old and the new. Whoever has approved this idea of order, of the form of European, of English literature, will not find it preposterous that the past should be altered by the present as much as the present is directed by the past. And the poet who is aware of this will be aware of great difficulties and responsibilities.
+
++ Walt Whitman: O Me! O Life!
+  O Me! O life!... of the questions of these recurring;	<br>
+  Of the endless trains of the faithless—of cities fill’d with the foolish;	 <br>
+  Of myself forever reproaching myself, (for who more foolish than I, and who more faithless?) <br>
+  Of eyes that vainly crave the light—of the objects mean—of the struggle ever renew’d;	 <br>
+  Of the poor results of all—of the plodding and sordid crowds I see around me; <br>
+  Of the empty and useless years of the rest—with the rest me intertwined;	 <br>
+  The question, O me! so sad, recurring—What good amid these, O me, O life?	 <br>
+  Answer.<br>
+  That you are here—that life exists, and identity;	 <br>
+  That the powerful play goes on, and you will contribute a verse.
