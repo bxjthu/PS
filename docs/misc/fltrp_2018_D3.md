@@ -115,6 +115,16 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
 
 What is the soul? I was busy searching for an answer when the sun outside Plato's cave suddenly appeared/came to shine on the dictionaries in front of me. Yes, to Plato, "the soul is like an eye; when resting upon that on which truth and being shine, the soul perceives and understands, and is radiant with intelligence."
 
-University education - a journey of forming, coloring, and motivating my soul. Or, to define the essentials of my soul.
+Dear audience, I am an 18-year-old freshmen settled comfortably on an excellent campus. Yet, ...
 
-I put the dictionaries aside, which define the soul as mind, character, thoughts, feelings, etc., and wrote down my definition of MY SOUL: the eye/ability to perceive and understand the self and the not-self and to form an union of them. What a wonderful world is my soul taking me to see, I am
+When ...
+
+When ...
+
+When ... [AI vs. human values]
+
+The four months of my university education has started a journey of forming, coloring, and motivating my soul.
+
+Just as Plato argued in the Myth of the Cave, it is not possible to put sight into blind eyes. And I, as a student and a young adult, can never step into the world of being, the world of brightest and best of being, if I fail to form, color, and motivate my soul.
+
+I put the dictionaries aside, which define the soul as one's mind, character, thoughts, feelings, etc. etc. And I wrote down MY definition of the SOUL as the eye/ability to perceive and understand the self and the not-self and to form an union of them. What a wonderful world is my soul taking me to see, I will wait and see.
