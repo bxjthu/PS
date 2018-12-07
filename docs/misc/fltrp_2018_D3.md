@@ -127,4 +127,4 @@ The four months of my university education has started a journey of forming, col
 
 Just as Plato argued in the Myth of the Cave, it is not possible to put sight into blind eyes. And I, as a student and a young adult, can never step into the world of being, the world of brightest and best of being, if I fail to form, color, and motivate my soul.
 
-I put the dictionaries aside, which define the soul as one's mind, character, thoughts, feelings, etc. etc. And I wrote down MY definition of the SOUL as the eye/ability to perceive and understand the self and the not-self and to form an union of them. What a wonderful world is my soul taking me to see, I will wait and see.
+I put the dictionaries aside, which define the soul as one's mind, character, thoughts, feelings, etc. etc. And I wrote down MY definition of the SOUL as the eye/ability to perceive and understand the self and the not-self and to form an union of them. What a wonderful world is my soul taking me to see, I am ready to explore.
