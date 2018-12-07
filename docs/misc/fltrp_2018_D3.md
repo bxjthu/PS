@@ -62,7 +62,7 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
   **That the powerful play goes on, and you will contribute a verse.<br><br>**
   **What will your verse be?**
 
-+ Louis Armstrong: What a Wonderful World
++ Louis Armstrong: What a Wonderful World<br>
   I see trees of green<br>
   Red roses too<br>
   I see them bloom<br>
