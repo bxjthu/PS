@@ -98,7 +98,9 @@ Questions: Do you think your are an excellent student with or without a soul? Wh
 
   Oh yeah
 
-+ AI
++ AI<br>
+  How will AI benefit human society?<br>
+  Everything that civilization offers is a product of our intelligence. AI provides a way to expand that intelligence along various dimensions, in much the same way that cranes allow us to carry hundreds of tons, aeroplanes allow us to move at hundreds of miles per hour, and telescopes allow us to see things trillions of miles away. AI systems can, if suitably designed, support much greater realization of human values.
 
 + Sophie's World
 
